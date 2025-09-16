@@ -1,0 +1,5 @@
+django 
+djangorestframework 
+apscheduler 
+requests 
+youtube-search-python
